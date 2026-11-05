@@ -1,4 +1,4 @@
-# 🌍 AeroSense – Air Quality Index (AQI) Prediction System
+# 🌍AeroSense – Air Quality Index (AQI) Prediction System
 
 ## 📌 Project Overview
 
